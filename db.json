@@ -1,0 +1,14 @@
+{
+  "KarnatakaCaseReport": [
+    {
+      "id": 1,
+      "Name": "Karnataka State",
+      "TotalCases": "55000",
+      "TotalDeaths": "950",
+      "TotalRecovered": "15000",
+      "TotalInc": "4700",
+      "TotalDec": "0",
+      "Condition": "Need to improve"
+    }
+  ]
+}

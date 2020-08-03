@@ -1,14 +1,18 @@
 {
-  "KarnatakaCaseReport": [
+  "IndiaCaseReport": [
     {
       "id": 1,
-      "Name": "Karnataka State",
-      "TotalCases": "55000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+      "Nameka": "Karnataka (ಕರ್ನಾಟಕ)",
+      "TotalCaseska": "140000",
+      "TotalDeathska": "2530",
+      "TotalRecoveredka": "58000",
+      "TotalCasesoka": "140K",
+      "TotalDeathswka": "2K",
+      "TotalRecoveredrka": "58M",
+      "TotalIncka": "5K+",
+      "TotalDecka": "10+",
+      "TotalRecka": "5K+",
+      "Conditionka": "Need to improve"
     }
   ]
 }
